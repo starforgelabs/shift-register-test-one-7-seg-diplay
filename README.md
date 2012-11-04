@@ -24,4 +24,5 @@ Connect the 7-segment display thus:
 * QP6 to segment G.
 
 This demo does not use the decimal point, but QP7 can be used.
+If you wish to use the decimal point, control it in the Arduino using the most significant bit (MSB) in the bit pattern.
 
